@@ -10,11 +10,6 @@
 }
 
 :root {
-  /* Did some calculation here 
-  10px/16px = 0.625 * 100% = 62.5% 
-  Then set my default root font size to 62.5%. Therefore, 1rem = 10px
-  */
-
   font-size: 62.5%; /* 1rem = 10px */
 
   /* Colors */
